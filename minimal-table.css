@@ -25,6 +25,7 @@ td, th {
 
 th {
   background-color: rgb(235,235,235);
+  text-align: left;
 }
 
 td {
